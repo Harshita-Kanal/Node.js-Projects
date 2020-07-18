@@ -1,0 +1,19 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Contains my work while learning Backend development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshita-Kanal/Node.js-Projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshita-Kanal/Node.js-Projects/issues"
+  },
+  "homepage": "https://github.com/Harshita-Kanal/Node.js-Projects#readme"
+}
